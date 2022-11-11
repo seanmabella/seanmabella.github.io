@@ -31,6 +31,8 @@ main {
   justify-content: center;
   align-items: stretch;
   align-content: center;
+  color: #000;
+  background-color: #000;
 }
 
 /* Added h1 definition. Notice the font size calculation. This calc sets the font size at AT LEAST 1.93em, then adds 2% of the view width per character (approx.) */
