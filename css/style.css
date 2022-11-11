@@ -101,6 +101,7 @@ img {
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
+  background-color: #000;
 }
 
 .a {
@@ -125,7 +126,7 @@ img {
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #4a4a4a;
+  color: #fff;
   position: relative;
   bottom: 5px;
 }
@@ -137,9 +138,9 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #fff;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  border-top: 1px solid #fff;
 }
 
 .logo {
