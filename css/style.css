@@ -11,7 +11,7 @@ body {
 /* Removed min-width because some phones are narrower than 500px */
 
 header, footer {
-  background-color: rgb(252,218,154);
+  background-color: #fcda9a;
   text-align: left;
 }
 
@@ -48,7 +48,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: rgb(252,218,154);
+  color: #fcda9a;
   padding: 10px 0px 10px 10px;
 }
 
