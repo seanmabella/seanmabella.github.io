@@ -154,8 +154,14 @@ a {
   margin: auto;
 }
 
-footer {
-  margin-top: 44px;
+footer div {
+  height: 100%;
+  font-family: 'Hind', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgba(252, 218, 154, 0.5);
 }
 
 
