@@ -124,13 +124,6 @@ a {
   border-top: 1px solid #fff;
 }
 
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
-}
-
 .container {
   margin: auto;
 }
