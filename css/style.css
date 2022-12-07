@@ -121,6 +121,7 @@ a {
   text-align: left;
   color: #fff;
   padding: 10px 0px 10px 10px;
+  border-top: 1px solid #fff;
 }
 
 .container {
